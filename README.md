@@ -1,5 +1,5 @@
 # HRfH Hackathon 2026
-## Data Analysis Challenge on Wearable and Smartphone Data with Missingness
+### Data Analysis Challenge on Wearable and Smartphone Data with Missingness
 
 This data analysis challenge is being held by Health Research From Home Partnership led by the University of Manchester
 
