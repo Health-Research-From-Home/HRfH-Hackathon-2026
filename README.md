@@ -24,7 +24,7 @@ This data analysis challenge is being held by Health Research From Home Partners
     - We aim to recruit 20 participants for an in-person session. The participants will include: Early career researchers (such as, PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research. Applicants should have a basic understanding of R or Python.
   - How to get involved:
       - To apply, please [submit your application here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=B8tSwU5hu0qBivA1z6kad88DiHAfwf5OoUGe4ARbVoNURUMwTVZSUENENzZaQTFSVlhPQ1FTODBONC4u). The application deadline is **Friday 17th April**.
-        - Please note, applying does not guarantee you a space. Selected participants will be notified via email in early April, at which point payment details will be provided. **The registration fee is £50** to secure your place. A limited number of bursaries are available as we don’t want finances to be a barrier to attending.
+        - Please note, applying does not guarantee you a space. Selected participants will be notified via email in mid-late April, at which point payment details will be provided. **The registration fee is £50** to secure your place. A limited number of bursaries are available as we don’t want finances to be a barrier to attending.
       - If you want to know more, or have any questions please contact us on: [hrfh@manchester.ac.uk](mailto:hrfh@manchester.ac.uk)
 
 ## Contact
