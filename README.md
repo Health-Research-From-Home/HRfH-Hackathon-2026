@@ -15,8 +15,8 @@ This data analysis challenge is being held by Health Research From Home Partners
 We are delighted to have successfully run the HRfH Hackathon 2026, bringing together participants, speakers, facilitators, PPIE colleagues, and judges for an engaging data analysis challenge on wearable and smartphone data with missingness.
 
 The event materials have now been shared:
-- Talks and supporting materials are available in the [resources](resources) folder.
-- The winning team’s Task 1 and Task 2 code and slides are available in the [winning-team-work](winning-team-work) folder.
+- Talks and supporting materials are available in the **[resources](https://github.com/Health-Research-From-Home/HRfH-Hackathon-2026/tree/main/resources)** folder.
+- The winning team’s Task 1 and Task 2 code and slides are available in the **[winning-team-work](https://github.com/Health-Research-From-Home/HRfH-Hackathon-2026/tree/main/winning-team-work)** folder.
 
 **[About the event](files/about.md)**: Learn about why we set up this event.
 
