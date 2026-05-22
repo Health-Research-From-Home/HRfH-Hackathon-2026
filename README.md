@@ -5,8 +5,8 @@ This data analysis challenge is being held by Health Research From Home Partners
 
 |                                               |                                               |
 |-----------------------------------------------|-----------------------------------------------|
-| <img src="images/DSC_0134.jpg" width="420" /> | <img src="images/DSC_0183.jpg" width="420" /> |
-| <img src="images/DSC_0299.jpg" width="420" /> | <img src="images/DSC_0303.jpg" width="420" /> |
+| <img src="images/DSC_0134.jpg" width="420" /> | <img src="images/DSC_0303.jpg" width="420" /> |
+| <img src="images/DSC_0455.jpg" width="420" /> | <img src="images/DSC_0474.jpg" width="420" /> |
 
 
 
